@@ -359,6 +359,10 @@ color: black;
     .boton{
         width: 40%;
     }
+    /*SHOWCASE*/
+    .showCase{
+        display: none;
+    }
 }
 @media only screen and (max-width: 425px){
     .navbar{
