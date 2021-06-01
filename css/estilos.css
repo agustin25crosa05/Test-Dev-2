@@ -327,6 +327,9 @@ color: black;
     ul li h5{
     margin-top: 15px;
     }
+    .showCase{
+        display: none;
+    }
 }
 @media only screen and (max-width: 768px){
     .navbar{
